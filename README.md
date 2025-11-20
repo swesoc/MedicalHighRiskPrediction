@@ -49,7 +49,7 @@ uv venv .venv
 ### Install Dependencies
 
 ```
-uv pip install pandas numpy seaborn matplotlib.pyplot  statsmodels scikit-learn
+uv pip install pandas numpy seaborn matplotlib.pyplot  statsmodels scikit-learn os joblib
 
 
 ```
