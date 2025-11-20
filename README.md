@@ -78,11 +78,5 @@ for training the model on command line
 python train.py 
 
 ```
-## Project File Structure
 
-parent_directory/  
-    data/  
-    ── medical_insurance.csv  
-    notebook.ipynb  
-    train.py  
 
