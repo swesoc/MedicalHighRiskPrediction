@@ -72,8 +72,10 @@ exit
 ```
 
 for training the model on command line 
-
+Note: training the model will create 3 models in output directory output_models
 ```
+python train.py 
+
 
 python train.py 
 
